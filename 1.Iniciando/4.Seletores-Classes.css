@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.importante{
+
+    color: red;
+    font-weight: bold;
+}
+
+#pouco-importante{
+
+    font-size: 10px;
+    text-align: right;
+}
