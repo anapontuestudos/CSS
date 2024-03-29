@@ -1,0 +1,35 @@
+a.botao1{
+    background-color: darkblue;
+    border-radius: 10px;
+    border: 3px solid black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+a.botao1:hover{
+
+    background-color: darkred;
+    border: 3px dotted black;
+}
+
+a.botao2{
+    border: 5px double blue;
+    padding: 5px;
+    text-decoration: none;
+    color: blue;
+    margin-right: 20px;
+}
+
+a.botao2:hover{
+
+    padding: 7px;
+    border: 5px solid blue;
+
+}
+
+a.botao3:hover{
+
+    cursor: none;
+}

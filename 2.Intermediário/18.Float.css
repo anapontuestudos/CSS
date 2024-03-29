@@ -1,0 +1,17 @@
+.content {
+
+    border: 1px solid;
+    overflow: auto;
+}
+
+.content img{
+
+    float: left;
+    margin-right: 10px;
+}
+
+.content #fora{
+    clear: both;
+    margin-top: 150px;
+
+}

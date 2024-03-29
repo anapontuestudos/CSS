@@ -1,0 +1,11 @@
+p.changedisplay1{
+
+    border: 2px solid red;
+    display: none;
+    
+}
+
+p.changedisplay2{
+    border: 2px solid blue;
+    display: inline;
+}
