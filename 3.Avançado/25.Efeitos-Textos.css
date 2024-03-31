@@ -1,0 +1,13 @@
+div{
+
+    width: 300px;
+    height: 200px;
+    box-shadow: 5px 5px 2px silver;
+    
+}
+
+div h2{
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

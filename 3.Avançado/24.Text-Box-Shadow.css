@@ -1,0 +1,17 @@
+h1{
+
+    text-shadow: 2px 2px silver;
+}
+
+h2{
+
+    text-shadow: 2px 2px 3px red;
+}
+
+div{
+
+    width: 200px;
+    height: 300px;
+    box-shadow: 5px 5px 2px silver;
+}
+
