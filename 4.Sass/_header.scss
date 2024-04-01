@@ -1,0 +1,16 @@
+
+
+header{
+
+    border: 1px solid $variavel;
+    padding: 10px;
+
+    p{
+
+        font-size: 10px;
+        &:hover{
+            color: red;
+        }
+    }
+
+}

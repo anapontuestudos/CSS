@@ -1,0 +1,20 @@
+header {
+  border: 1px solid silver;
+  padding: 10px;
+}
+header p {
+  font-size: 10px;
+}
+header p:hover {
+  color: red;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  height: 800px;
+}
+div img {
+  width: 60%;
+  height: 500px;
+}/*# sourceMappingURL=1.style.css.map */
